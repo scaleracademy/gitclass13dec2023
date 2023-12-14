@@ -1,2 +1,2 @@
-Tuhin Kumar Nandi
-Just Do it.
+Tuhin Kumar Nandi 
+\nJust Do it.
