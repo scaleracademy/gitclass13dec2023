@@ -1,2 +1,3 @@
-Tuhin Kumar Nandi 
-\nJust Do it.
+Tuhin Kumar Nandi
+ 
+Just Do it.
