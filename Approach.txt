@@ -1,0 +1,22 @@
+1) First we have to create classes: 
+a) Main.java
+b) Car.java
+c) Ticket.java
+d) ParkingLotService.java
+
+Now we show all the given option's , and ask user to press any one number from 1 to 5.
+ 
+2) Then a user will enter the Car information (i.e. RegNumber and Color).After pressing "1".
+    and we store all the information in Hashmap();
+    
+3) If user Press 2 we ask user to enter color of a car if Car color
+Matches we return all ReqNumber of car's else we print "There is no car with color (with the input color)".
+
+4) If user Press 3 we ask user for Car "RegNumber" is number mathes then we return
+then we return the corresponding Ticket Number else print "Car doesn't exist with the given ReqNumber".
+
+5) Now for getting "Ticket Numbers" of all the tickets based on a particular color
+we as user to Press 4. If Color mathes then return the Ticket Numbers else print"There is no car with color: (color Name)"
+
+6)Last we ask user to Press 5 for exit.
+
