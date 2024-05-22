@@ -1,0 +1,2 @@
+I am kratik
+Now I am doing git commit
